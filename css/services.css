@@ -1,0 +1,22 @@
+html, body {
+    background-image: url('../images/5570.jpg');
+    background-attachment: fixed;
+}
+.pri_of_article {
+    background-color: #fff;
+}
+.list-group-item i {
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+.QuestionListe {
+    background-color: #000;
+}
+.footer {
+    background-color: #000;
+}
+@media only screen and (max-width:992px) {
+    .Box {
+        margin-bottom: 1.5rem;
+    }
+}

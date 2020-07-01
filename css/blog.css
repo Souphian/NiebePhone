@@ -1,0 +1,11 @@
+html, body {
+    background-image: url('../images/5570.jpg');
+    background-attachment: fixed;
+}
+
+.Blog_Contente {
+    background-color: #fff;
+}
+.footer {
+    background-color: #000;
+}

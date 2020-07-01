@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;padding: 0;
+    background-image: url('../images/5570.jpg');
+    background-attachment: fixed ;
+}
+.carousel-item {
+    height: 500px;
+    background-color: rgb(21, 27, 27);
+}
+.SpotToggle i {
+    font-size: 2rem;
+    color: #fff;
+}
+.article i {
+    font-size: 3rem;
+    padding-bottom: .8rem;
+}
+.formulaire .form-group {
+    margin-left: .3rem;
+    margin-right: .3rem;
+}
+.footer {
+    background: #000;
+}
+.section2 {
+
+}

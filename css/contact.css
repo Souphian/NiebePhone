@@ -1,0 +1,13 @@
+html, body {
+    background-image: url('../images/5570.jpg');
+    background-attachment: fixed;
+}
+.contact_formulaire {
+    background-color: #fff;
+}
+.contact_formulaire .card-group {
+    margin-bottom: 1rem;
+}
+.footer {
+    background-color: #000;
+}
